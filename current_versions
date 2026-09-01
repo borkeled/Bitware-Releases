@@ -2,6 +2,25 @@
   "roblox-version": "version-f5a60436d48947d3",
   "bitware-version": "1.3.8",
   "changelog": [
-    "todo"
+    "+ Updated to version-f5a60436d48947d3
++ Codebase tweaks
++ Improved Loader Scaling
++ Improved Loader on Windows 11
++ Improved auto-update
++ Improved Aimbot
++ Close bitware in misc
++ noclip
++ distance for aimbot ig
++ tweaks in player list
++ fixed weird symbols in player list
++ player list will be more useful in the future trust
++ Explorer window! (View everything in the game)
++ Improved configs (raw json now)
++ Configs now auto-load
++ Tweaked cache (works better)
++ Performance tweaks
++ prob more im forgetting lol
+- I reenabled world visuals but they're not fully functional yet sry i just wanted to get the update out
+- report any issues in #support yeah i might have broke some stuff send debug.log too in the ticket and how 2 reproduce the issue"
   ]
 }
