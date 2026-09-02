@@ -1,26 +1,8 @@
 {
   "roblox-version": "version-f5a60436d48947d3",
   "bitware-version": "1.3.8",
+  "released": "2026-09-02T00:18:00Z",
   "changelog": [
-    "+ Updated to version-f5a60436d48947d3
-+ Codebase tweaks
-+ Improved Loader Scaling
-+ Improved Loader on Windows 11
-+ Improved auto-update
-+ Improved Aimbot
-+ Close bitware in misc
-+ noclip
-+ distance for aimbot ig
-+ tweaks in player list
-+ fixed weird symbols in player list
-+ player list will be more useful in the future trust
-+ Explorer window! (View everything in the game)
-+ Improved configs (raw json now)
-+ Configs now auto-load
-+ Tweaked cache (works better)
-+ Performance tweaks
-+ prob more im forgetting lol
-- I reenabled world visuals but they're not fully functional yet sry i just wanted to get the update out
-- report any issues in #support yeah i might have broke some stuff send debug.log too in the ticket and how 2 reproduce the issue"
+    "+ Updated to version-f5a60436d48947d3\n+ Codebase tweaks\n+ Improved Loader Scaling\n+ Improved Loader on Windows 11\n+ Improved auto-update\n+ Improved Aimbot\n+ Close bitware in misc\n+ noclip\n+ distance for aimbot ig\n+ tweaks in player list\n+ fixed weird symbols in player list\n+ player list will be more useful in the future trust\n+ Explorer window! (View everything in the game)\n+ Improved configs (raw json now)\n+ Configs now auto-load\n+ Tweaked cache (works better)\n+ Performance tweaks\n+ prob more im forgetting lol\n- I reenabled world visuals but they're not fully functional yet sry i just wanted to get the update out\n- report any issues in #support yeah i might have broke some stuff send debug.log too in the ticket and how 2 reproduce the issue"
   ]
 }
