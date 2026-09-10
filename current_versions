@@ -1,8 +1,8 @@
 {
-  "roblox-version": "version-e7d81637d42c4b23",
+  "roblox-version": "version-c5aecda2245e4fae",
   "bitware-version": "1.3.85",
-  "released": "2026-09-02T23:35:33Z",
+  "released": "2026-09-10T00:47:12Z",
   "changelog": [
-    "+ Updated to version-e7d81637d42c4b23 \n no longer using weird namespaces, some other offset and memory related things, and version mismatch error is now clear."
+    "+ use auto updater, prev changelog: updated 2 latest, small error and internal tweaks. nothing huge"
   ]
 }
