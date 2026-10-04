@@ -2,7 +2,7 @@
   "roblox-version": "version-02c37bc51a384b8f",
   "bitware-version": "1.3.85",
   "changelog": [
-    "+ Updated to version-e7d81637d42c4b23 << og changelog, reposted we updated to latest as of october 3rd",
+    "+ Updated to latest",
     "+ Internal tweaks, offset and struct related stuff",
     "+ Auto-update on loader is clearer",
     "+ Version mismatch error is clearer"
