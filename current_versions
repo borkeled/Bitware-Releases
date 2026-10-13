@@ -1,7 +1,7 @@
 {
-  "roblox-version": "version-cec3ad5889b447cf",
+  "roblox-version": "version-7a0c6d10fcb34a2c",
   "bitware-version": "1.4.0",
   "changelog": [
-    "# v1.4.0 || @everyone || ```diff\n+ Updated Verified Offsets to version-cec3ad5889b447cf\n+ Tweaked offset related stuff\n+ Rewrote Aimbot (added prediction, improved smoothing, fixed missing team check etc)\n+ team check added back idk what i did bro in 1.3.8\n+ Rewrote/Tweaked silent aim, triggerbot\n+ Fixed wallcheck feature globally (hopefully)\n+ Fixed other features not working\n+ Explorer Icons\n+ Explorer tweaks\n+ fixed\n+ qol improvements (no decompiling scripts yet!)\n+ Anti-sit\n+ gravity modifier\n+ NPC esp\n+ definitely forgetting something\n+ Fixed esp being completely broken sometimes\n+ tweaked tracers i think theyre better\n+ Infinite jump fixed globally\n+ Improved driver and sdk stuff\n+ Performance improvements\n+ possibly less memory usage!\n- IF ESP IS SLIGHTLY BUGGY OR OFF COMPLETELY MAKE A TICKET!\n- should be good this time bro imma crash out\n```"
+    "# v1.4.0 || @everyone || ```diff\n+ Updated Verified Offsets to version-7a0c6d10fcb34a2c\n+ Tweaked offset related stuff\n+ Rewrote Aimbot (added prediction, improved smoothing, fixed missing team check etc)\n+ team check added back idk what i did bro in 1.3.8\n+ Rewrote/Tweaked silent aim, triggerbot\n+ Fixed wallcheck feature globally (hopefully)\n+ Fixed other features not working\n+ Explorer Icons\n+ Explorer tweaks\n+ fixed\n+ qol improvements (no decompiling scripts yet!)\n+ Anti-sit\n+ gravity modifier\n+ NPC esp\n+ definitely forgetting something\n+ Fixed esp being completely broken sometimes\n+ tweaked tracers i think theyre better\n+ Infinite jump fixed globally\n+ Improved driver and sdk stuff\n+ Performance improvements\n+ possibly less memory usage!\n- IF ESP IS SLIGHTLY BUGGY OR OFF COMPLETELY MAKE A TICKET!\n- should be good this time bro imma crash out\n```"
   ]
 }
