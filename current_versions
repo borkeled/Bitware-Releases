@@ -2,6 +2,6 @@
   "roblox-version": "version-7a0c6d10fcb34a2c",
   "bitware-version": "1.4.1",
   "changelog": [
-    "Updated to version-7a0c6d10fcb34a2c, added back compatability runtime for offset latest fetch, fixed missing bools in configs. (hotfix upd)"
+    "Updated to version-7a0c6d10fcb34a2c, added back compatability runtime for offset latest fetch, fixed missing bools in configs. (hotfix upd)\nrepush update: + Minor update so no need for a sep version\n+ Updated internal version to 1.4.1 as it should be (FIXES UPDATE)\n+ Added ~ as a secondary hotkey for the external UI if you do not have insert on your keyboard"
   ]
 }
